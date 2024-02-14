@@ -4,7 +4,9 @@ Bulk checker of an address list to check qualification for STK early Ethereum ad
 ## Running
 
 (a) Place full address list you want to check into ```addys.txt```.
-(b) Run ```python3 stk.py'''.
+
+(b) Run ```python3 stk.py```.
+
 (c) Done, outputs found addresses and the number of contracts interacted with. 
 
 ## Credit
